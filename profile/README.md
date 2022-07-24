@@ -8,7 +8,7 @@ Security & Software Engineering Research Lab (S2E Lab) is a research lab in the 
 ## Current Graduate Students
 - **Beatrice Casey**, PhD Student, Fall 2022 - Present
 - [**Mohammed Latif Siddiq**](https://lsiddiqsunny.github.io), PhD Student, Spring 2022 - Present
-- **Vinicius Carvalho Lope**, PhD Student, Fall 2022 - Present
+- **Vinicius Carvalho Lopes**, PhD Student, Spring 2022 - Present
 
 ## Contact
 
