@@ -1,6 +1,6 @@
-# Security & Software Engineering Research Lab (S2E Lab)
+# Security & Software Engineering Research Lab (S<sup>2</sup>E Lab)
 
-Security & Software Engineering Research Lab (S2E Lab) is a research lab in the Department of Computer Science and Engineering of the University of Notre Dame. The lab is dedicated to studying the broad area of software engineering, primarily focusing on software security.
+**S**ecurity & **S**oftware **E**ngineering Research Lab (S<sup>2</sup>E Lab) is a research lab in the Department of Computer Science and Engineering of the University of Notre Dame. The lab is dedicated to studying the broad area of software engineering, primarily focusing on software security.
 
 ## Faculty
 - [**Joanna C. S. Santos**](https://joannacss.github.io), Assistant Professor, Department of Computer Science and Engineering, University of Notre Dame, Notre Dame, IN 46556
