@@ -12,7 +12,7 @@
 
 ## Contact
 
-**Website**: [S2E Lab](https://s2e-lab.github.io/about/)
+**Website**: [S2E Lab](https://s2e-lab.github.io/)
 
 **GitHub**: [S2E Lab](https://github.com/s2e-lab)
 
